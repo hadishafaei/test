@@ -2,7 +2,7 @@
     
     implicit none
        
-    print*, "Hello"
+    print*, "Hello Hadi"
     
     call sleep(1)
 
